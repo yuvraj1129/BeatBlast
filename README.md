@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-👉 [Try BeatBlast on GitHub Pages]()
+👉 [Try BeatBlast on GitHub Pages](https://yuvraj1129.github.io/BeatBlast/)
 
 ## 🎹 How to Use
 
@@ -45,6 +45,7 @@ beatblast/
 
 2. Open the index.html file in your browser
 
-✨ Author
+## ✨ Author
+
 Yuvraj Sharma
-Feel free to connect on LinkedIn or share feedback!
+Feel free to connect on LinkedIn(www.linkedin.com/in/yuvthetechie22) or share feedback!
