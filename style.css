@@ -1,0 +1,65 @@
+.title {
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #da4603;
+  font-size: 5rem;
+  color: #dbedf3;
+}
+
+.note {
+  outline: none;
+  border: 10px solid #404869;
+  font-size: 4rem;
+  font-family: "arvo", cursive;
+  line-height: 1;
+  font-weight: 900;
+  color: #da0463;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+}
+
+button {
+  padding: 50px;
+  margin: 20px;
+  font-size: 5rem;
+}
+
+footer {
+  margin-top: 15%;
+  color: #e01010;
+  text-align: center;
+  font-family: "Indie Flower", cursive;
+}
+
+body {
+  background-color: #283149;
+  text-align: center;
+}
+
+.w {
+  background-image: url(images/tom1.png);
+}
+
+.a {
+  background-image: url(images/tom2.png);
+}
+.s {
+  background-image: url(images/tom3.png);
+}
+.d {
+  background-image: url(images/tom4.png);
+}
+.j {
+  background-image: url(images/snare.png);
+}
+.k {
+  background-image: url(images/crash.png);
+}
+.l {
+  background-image: url(images/kick.png);
+}
+
+.pressed {
+  box-shadow: 0 3px 5px #000;
+  transform: scale(0.95);
+  background-color: #ddd;
+}
